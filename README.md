@@ -1,2 +1,3 @@
-# dsa-python
-barebones implementations of basic data structures
+# Implementations of basic data structures in Python
+
+Barebones implementations of important data structures in python
